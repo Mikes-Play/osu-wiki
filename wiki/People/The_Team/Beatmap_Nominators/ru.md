@@ -14,7 +14,7 @@ tags:
 
 ## Роли и обязанности
 
-Номинаторы отвечают за [моддинг](/wiki/Modding) карт в категории [Pending](/wiki/Beatmaps/Category#ожидающие) и их дальнейшее продвижение по процедуре ранкинга. К ним стоит обращаться за советом или просьбами, связанными с моддингом и маппингом. В возможности номинаторов входит [накладывание вето](Beatmap_Veto) на карты, которые не нарушают критерии ранкинга, но, по их мнению, имеют проблемы, которые перед ранком нужно решить.
+Номинаторы отвечают за [моддинг](/wiki/Modding) карт в категории [Pending](/wiki/Beatmap/Category#ожидающие) и их дальнейшее продвижение по процедуре ранкинга. К ним стоит обращаться за советом или просьбами, связанными с моддингом и маппингом. В возможности номинаторов входит [накладывание вето](Beatmap_Veto) на карты, которые не нарушают критерии ранкинга, но, по их мнению, имеют проблемы, которые перед ранком нужно решить.
 
 В дополнение к этому, номинаторы должны соответствовать [ожиданиям](Expectations) — набору рекомендаций по тому, как вести деятельность и помогать другим мапперам и сообществу в целом.
 
@@ -84,7 +84,6 @@ tags:
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Русский |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Немецкий |
-| ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Немецкий |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Китайский |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
@@ -121,10 +120,12 @@ tags:
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Урду, частично арабский |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Немецкий |
 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Частично японский |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Китайский, кантонский диалект |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Вьетнамский |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Испанский |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Турецкий |
-| ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Немецкий |
+| ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Испанский |
+| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Нидерландский |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Финский, японский |
 | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Японский, кантонский диалект, китайский |
@@ -139,16 +140,13 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Китайский, кантонский диалект |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Испанский |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Филиппинский |
-| ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Филиппинский |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Русский |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Греческий |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Польский |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Корейский |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Индонезийский, частично китайский |
 
 #### osu!mania
 
@@ -156,15 +154,14 @@ tags:
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Китайский |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Индонезийский |
+| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Индонезийский |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Шведский |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Корейский |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Корейский, японский |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Филиппинский |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Индонезийский |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Корейский |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Китайский, кантонский диалект |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Индонезийский |
-| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Индонезийский |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Нидерландский |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Китайский |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Индонезийский |
@@ -189,25 +186,26 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Китайский, кантонский диалект |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Испанский |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Филиппинский |
-| ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Испанский |
-| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Нидерландский |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Арабский, французский, частично итальянский |
+| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Испанский |
 
 #### osu!catch
 
 | Имя | Языки |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Испанский |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Китайский, кантонский диалект |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Норвежский |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Нидерландский |
 
 #### osu!mania
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Индонезийский |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Индонезийский |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Китайский, кантонский диалект |
 
 ## История
 
@@ -248,6 +246,7 @@ tags:
 [flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
 [flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
 [flag_TH]: /wiki/shared/flag/TH.gif "Таиланд"
+[flag_TN]: /wiki/shared/flag/TN.gif "Тунис"
 [flag_TR]: /wiki/shared/flag/TR.gif "Турция"
 [flag_TW]: /wiki/shared/flag/TW.gif "Тайвань"
 [flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"
