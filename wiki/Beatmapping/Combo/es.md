@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - combo color
   - combo colour
@@ -21,4 +22,5 @@ En [osu!standard](/wiki/Game_mode/osu!), cada objeto dentro de un combo tiene su
 
 ## osu!catch
 
+En [osu!catch](/wiki/Game_mode/osu!catch), cada tipo de fruta está coloreada en el orden indicado. Los "Juices Streams" y las frutas al final de los "Sliders" **siempre** tendrán el mismo color que la fruta inicial, sin embargo, las bananas (o platanos) siempre tendrán su respectivo color amarilo. Cuando un combo es completado, las frutas en el plato del jugador explotarán hacia afuera.
 En [osu!catch](/wiki/Game_mode/osu!catch), cada tipo de fruta está coloreada en el orden indicado. Los "Juices Streams" y las frutas al final de los "Sliders" **siempre** tendrán el mismo color que la fruta inicial, sin embargo, las bananas (o platanos) siempre tendrán su respectivo color amarilo. Cuando un combo es completado, las frutas en el plato del jugador explotarán hacia afuera.

@@ -33,7 +33,7 @@ The applications will remain open for at least 2 weeks (ending at 1st February 2
 | Season Start | Jan 18th, 2021 |
 | Timeshift Lobby: Playlist A | Jan 18th - Jan 25th, 2021 |
 | Timeshift Lobby: Playlist B | Jan 25th - Feb 1st, 2021 |
-| Timeshift Lobby: Playlist C | Jan 29th - Feb 5th, 2021 |
+| Timeshift Lobby: Playlist C | Feb 1st - Feb 8th, 2021 |
 | Timeshift Lobby: Playlist D | Feb 8th - Feb 15th, 2021 |
 | INTERMISSION | Feb 15th - Feb 22nd, 2021 |
 | Timeshift Lobby: Playlist A | Feb 22nd - Mar 1st, 2021 |
@@ -44,7 +44,7 @@ The applications will remain open for at least 2 weeks (ending at 1st February 2
 
 You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0_p56oQ2FcpYQoVKSZVhvFR7hX3tX7l0nUpCqlvTmBIEyDh0RdzjIg6WbjXTTtiA5-E4bd0aLxAV8/pubhtml).
 
-The Winter Season 2021 leaderboard will be available over at the [Beatmap Spotlights Season Winter 2021](/wiki/Beatmap_Spotlights/Seasons/Winter_2021) wiki article once the first batch of lobbies conclude in the coming weeks.
+The Winter Season 2021 leaderboard will be available over at the [Beatmap Spotlights Season Winter 2021](/wiki/Beatmap_Spotlights/Seasons/2021_Winter) wiki article once the first batch of lobbies conclude in the coming weeks.
 
 ## Rewards
 
