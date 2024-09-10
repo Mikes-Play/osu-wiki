@@ -91,7 +91,29 @@ Esta es la interfaz del estilo de juego osu! Standard.
 - El círculo al lado de tu precisión y debajo de tu puntaje es la barra de tiempo, que muestra la duración de la canción.
 - El número en la parte inferior izquierda es el contador de combo/multiplicador de puntaje.
 
+### Controles
+
+Los controles predeterminados para Osu! son:
+
+| Mouse | Teclado | Tableta |
+| :-- | :-- | :-- |
+| Click izquierdo(M1) / Click derecho(M2) | `Z`(K1) / `X`(K2) | Tocar la pantalla/tableta(M1) |
+
+Los Hit Objects en Osu! aceptarán cualquier entrada proveniente de cualquier dispositivo siempre y cuando los Hit Objects sean presionados en el momento correcto
+
+Si se está usando el modificador [Relax](/wiki/es/Gameplay/Game_modifier/Relax), solo funcionará el cursor y se deshabilitarán los botones del teclado/mouse/lapiz. Usa el cursor para seguir a los Hit Objects mientras estos se presionan automaticamente. Sin embargo, los Spinners deberan ser completados normalmente.
+
+Si se está usando el modificador [Auto Pilot](/wiki/es/Gameplay/Game_modifier/Autopilot), solo funcionará la entrada de teclado/mouse/lapiz pero se deshabilitará el movimiento del cursor. Usa los botones para presionar a tiempo los Hit Objects mientras el cursor los sigue automaticamente. Los Spinners seguirán la velocidad del mod [Spun Out](/wiki/es/Gameplay/Game_modifier/Spun_Out)
+
+---
+
 ## Otros Modos de Juego
+
+### Cambiando el Modo de Juego
+
+![Mode change interface](/wiki/shared/Interface_mode.png "Mode toolbox in Song Selection (Solo)")
+
+Cliquea en el boton de `Modo` para **abrir una lista con los modos de juego disponibles en Osu!**. Cliquea en el modo de juego deseado y Osu! cambiará al estilo del modo de juego deseado. Tambien puedes presionar las teclas `Ctrl` y `1` (![][osu!] *[osu!](/wiki/es/Game_mode/osu!))* / `2` ( ![][osu!taiko] *[osu!taiko](/wiki/es/Game_mode/osu!taiko)*) / `3` (![][osu!catch] *[osu!catch](/wiki/es/Game_mode/osu!catch)*) / `4` (![][osu!mania] *[osu!mania](/wiki/es/Game_mode/osu!mania)*) para cambiar rapidamente entre los modos de juego
 
 ### ¿Qué es "Taiko"?
 
@@ -286,3 +308,8 @@ Soltaste un slider demasiado pronto. También es posible perder el combo si lo e
 - Entrenamiendo para principiantes de Pokebis [1](https://osu.ppy.sh/community/forums/topics/5456)
 - Wikipedia [2](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [3](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 - Reddit's /r/osugame/wiki [4](http://www.reddit.com/r/osugame/wiki/index)
+
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
